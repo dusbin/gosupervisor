@@ -1,0 +1,9 @@
+*.exe
+*.log
+.idea
+.idea/*
+pkg
+pkg/*
+*.out
+go.sum
+*.pid
